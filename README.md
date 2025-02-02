@@ -74,4 +74,4 @@ Body: { "question": "Your question?", "answer": "The answer." }
 ```
 DELETE /api/faqs/:id
 ```
-# For further updates or queries , kindly contact goeleshita509@gmai.com 
+# For further updates or queries , kindly contact goeleshita509@gmail.com 
